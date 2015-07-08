@@ -1,3 +1,14 @@
+coinhouse:
+  label: Coinhouse
+  countries: [fr,be]
+  location: [fr]
+  icon: https://www.coinhouse.io/favicon.ico
+  url: http://www.coinhouse.io/
+  content: |
+    <p>Buy bitcoins online with credit/debit card or predaid tickets (Neosurf).</p>
+    <p>Instant delivery of the bitcoins, low fee. Reliable and serious.</p>
+  coins: [btc]
+
 Coinimal:
   label: Coinimal
   location: [at]
